@@ -7,8 +7,4 @@ spring:
   jpa:
     hibernate.ddl-auto: update
     generate-ddl: true
-    show-sql: true 
-  server:
-  	servlet:
-  	  contextPath: /inventory-api
-  	port: 8020		
+    show-sql: true 		
